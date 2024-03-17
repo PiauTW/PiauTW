@@ -1,4 +1,5 @@
-### Hi there 👋
+### um 一個程式初學者
+### 為了學生身分才來寫這東西
 
 <!--
 **PiauTW/PiauTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
